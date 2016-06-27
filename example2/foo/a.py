@@ -1,4 +1,4 @@
-from foo import b
+from example2.foo import b
 
 class A:
   def __init__(self, a):
